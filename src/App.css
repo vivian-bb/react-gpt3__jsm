@@ -37,16 +37,16 @@ a {
 
 .gradient__text {
     background: var(--gradient-text);
-    background-clip: text-box;
+    background-clip: text;
     -webkit-background-clop: text;
     -webkit-text-fill-color: transparent;
 }
 
-.section__padding: {
+.section__padding {
     padding: 4rem 6rem;
 }
 
-.section__margin: {
+.section__margin {
     margin: 4rem 6rem;
 }
 
